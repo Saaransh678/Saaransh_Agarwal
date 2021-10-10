@@ -33,15 +33,24 @@ Project-Electric Wheelchair with variable speed Control
 
 
 ### PROJECTS
+Faculty members can apply for a leave of absence, and Leave applications process through a series of concerned higher
+authority members to be approved, rejected, and redirected.
+– 
+– 
 
-- [Unpaired Image to Image Translation with Cycle-Consistent Adversarial Networks](https://github.com/Prudhvipvp/Unpaired-Image-to-Image-Translation-using-Cycle-Consistent-Adversarial-Networks)
+- [Faculty Leave Portal at Academic University](https://github.com/Saaransh678/Faculty-Portal)
 <br>
-     Implemented the CycleGAN for the translation of horse images to zebra images and zebra images to horse images.
+     Faculty members can apply for a leave of absence, and Leave applications process through a series of concerned higher authority members to be approved, rejected, and redirected.
 <br>
-- [Review Classification of Amazon Fine Food using Decision Tree and Random Forest](https://github.com/Prudhvipvp/Decision-Trees-and-Random-Forests)
+     Director Portal has the option to appoint Dean and HOD.
 <br>
-     Decision Tree Classifier, Random Forest Classifier was learned and the least error model was chosen by testing the model with varying hyperparameters.
+     Tech Involved: Django, Bootstrap, and PostgreSQL.
 <br>
+- [Social Media Platform for Teacher-Student](https://github.com/Saaransh678/Social-Platform-for-Teacher-Students)
+<br>
+     Teachers or Educators can post any articles and questions and students can like and comment the posts.– Students can follow Teachers.
+<br>
+     Tech Involved: Django, ReactJS, and Bootstrap
 - [Neural Machine Translation with Attention](https://github.com/Prudhvipvp/Neural-Machine-Translation)
 <br>
      Implemented a encoder-decoder sequence to sequence model with Bahdanau's attention for translation of Spanish sentences to English sentences.
