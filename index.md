@@ -4,47 +4,33 @@
 
 ### Work Experience 
 
-[Zeotap India Pvt. Ltd.](/pdf/Zeotap.pdf)
+[MyHashCode](/pdf/Internship_Certificate_MyHashCode.pdf)
 <br>
-Data Scientist Intern
+Intern - Software Developer
 <br>
-•Worked on cleaning, scoring, and graph embedding in huge network graphs(ID graph) with nodes and edges in Billions using state-of-the-artscalable algorithms in pyspark using graphframes, and networkx libraries.
+• Training on ReactJS, Azure DevOps, and Git.
 <br>
-•Completely designed and implemented the data partner(dp) scoring pipeline which scores a data partner depending on the anomalous data given by that data partner. Data Partners are scored based on 8 metadata functional features of the graph.
+• Part of the team working on project - NFT MarketPlace for Rudra Band.
 <br>
-•The data partners(dps) are also scored using comparative feature vector-based scoring wherein each dp is assigned a feature vector based onstructural features and a few metadata features of the graph and an algorithm inspired from PageRank is used to score the data partners.
+• Took ownership of the Login/SignUp Page UI.
 <br>
-•Cleaning pipeline - Found connected components within the graph and applied clustering algorithms like Power Iteration Clustering and Lou-vain Detection to find communities within large connected components. Studied the graph embedding algorithms like GraphSage and GraphAttention networks(GAT) to find the Low-dimensional vector embeddings of nodes in large graphs.
+• Created React components for Login/Sign-Up page - Backdrop, Tabs, React Swipeable Views, Login form, and Signup form
 <br>
-
----
-[National Taipei University of Technology](/pdf/Intern.jpeg)
-<br>
- Intern
- <br>
-• Worked on a Large Parking Station Management System for the China Motor Corporation(CMC) under professor Leehter Yao.
-<br>
-• Wrote a program to efficiently schedule the charging interval of a vehicle in the parking lot based on its departure time and current battery
-charge status of the vehicle. Linear Programming with the GLPK library was used to perform this task.
-<br>
-• Designed a website application that shows the status of the Parking lot(Number of Vehicles, their current Battery Charge etc).
-<br>
-• Worked on CANBUS to enable the communication between the Battery management system and the charge management system.
+• Tech Involved: HTML, CSS, React-JS, and Material-UI.
 <br>
 
+
 ---
-[Monash University](/pdf/Prudhvi_Letter.pdf)
+[Indian Institute of Technology Ropar](/pdf/Internship-Certificate_IIT_ROPAR.pdf)
 <br>
 Research Intern
 <br>
-• Worked on a Research Project in Virtual Reality(VR) under Dr Jarrod Knibbe to predict pointing behaviour during room-scale target selection.
+Guide - Dr.  K. Ramachandra SekharProject-Electric Wheelchair with variable speed Control[Certificate]
 <br>
-• The working prototype consisted of 27 targets in 3D Virtual Space and users were asked to point those targets.
+Project-Electric Wheelchair with variable speed Control
 <br>
-• Developed an SVM model to predict/early predict the target in real-time, given the coordinates of the index finger during the flight.
-<br>
-• Using these prediction models, we aim to better understand how users point in Virtual Reality and facilitate early target prediction.
-<br>
+• Designed a small model of electric wheelchair with Controlling the Speed and Movement of Wheelchairusing joystick and arduino with basic information like speed displayed on LCD
+
 
 ### PROJECTS
 
