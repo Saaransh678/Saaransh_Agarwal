@@ -25,7 +25,7 @@ Intern - Software Developer
 <br>
 Research Intern
 <br>
-Guide - Dr.  K. Ramachandra SekharProject-Electric Wheelchair with variable speed Control[Certificate]
+Guide - Dr.  K. Ramachandra SekharProject-Electric Wheelchair with variable speed Control
 <br>
 Project-Electric Wheelchair with variable speed Control
 <br>
