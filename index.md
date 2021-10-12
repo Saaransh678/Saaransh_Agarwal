@@ -33,10 +33,6 @@ Project-Electric Wheelchair with variable speed Control
 
 
 ### PROJECTS
-Faculty members can apply for a leave of absence, and Leave applications process through a series of concerned higher
-authority members to be approved, rejected, and redirected.
-– 
-– 
 
 - [Faculty Leave Portal at Academic University](https://github.com/Saaransh678/Faculty-Portal)
 <br>
@@ -51,21 +47,15 @@ authority members to be approved, rejected, and redirected.
      Teachers or Educators can post any articles and questions and students can like and comment the posts.– Students can follow Teachers.
 <br>
      Tech Involved: Django, ReactJS, and Bootstrap
-- [Neural Machine Translation with Attention](https://github.com/Prudhvipvp/Neural-Machine-Translation)
+- [Predicting failure (leakage) time for Gas pipelines from historical data](https://github.com/Saaransh678/Gas_Leakagetime_prediction)
 <br>
-     Implemented a encoder-decoder sequence to sequence model with Bahdanau's attention for translation of Spanish sentences to English sentences.
+     Predict the gas pipelines’ (primary) failure time based on input parameters like pipe material, pipe diameter, fitting material, and pipe joint coupling type.
 <br>
-- [Other Projects](https://github.com/Prudhvipvp/Other-Projects)
+     To tackle with large data size, embedding layer and batch normalization is used.
 <br>
-     1. Built a feed forward neural network (2 Hidden Layered) from scratch to classifiy the MNIST handwritten digits dataset.
-<br>
-     2. Built a Canny Edge Detector from scratch in python to detect wide range of edges in images.
-<br>
-     3. Implemented a deep neural network for traffic sign classification with an accuracy of 95 percent.
-<br>
-
 ---
 
 ### SKILLS-
 <br>
-C, C++, Python, SQL, HTML, CSS.
+C, C++, Python, SQL, HTML, CSS, Javascript, Django, ReactJS, PostgreSQL
+
